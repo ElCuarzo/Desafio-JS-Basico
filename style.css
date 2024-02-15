@@ -1,0 +1,98 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    overflow: hidden;
+}
+#fondo{
+    min-width:300px;
+    background-color: rgba(27,51,93,255);
+    margin: 0px auto;
+}
+#titulo{
+    min-height: 100px;
+    background-color: rgba(207,48,54,255);
+    margin: 10px;
+    border-radius: 15px;
+}
+#index{
+    min-height: 245px;
+    min-width: 245px;
+    background-color: rgba(41,125,140,255);
+    border-radius: 30px;
+    float: left;
+    font-size: larger;
+}
+#cuerpo{
+    min-height: 600px;
+    width: 1514px;
+    background-color: rgba(14,24,34,255);
+    border-radius: 30px;
+    float: left;
+    }
+#ci{
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+#abajo{
+    min-height: 60px;
+    background-color: rgba(93,102,115,255);
+    border-radius: 25px;
+}
+.puntoblanco{
+    color: white;
+    margin-top: -15px;
+    margin-left: 30px;
+}
+.puntoblancouno{
+    color: white;
+    margin-top: -15px;
+    margin-left: 65px;
+}
+.puntoblancodos{
+    color: white;
+    margin-left: 25px;
+}
+.uno{
+    color: beige;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.unodos{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.dos{
+    color: cyan;
+}
+.tres{
+    color: cyan;
+    margin-bottom: 15px;
+}
+#TituloCuerpo{
+    color: beige;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 30px;
+}
+p {
+    color: beige;
+    margin-left: 30px;
+    margin-right: 0px;
+    font-size: 20px;
+}
+.texto_cuerpo{
+    color: beige;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.link_del_cuerpo{
+    color: cyan;
+    text-decoration: underline;
+}
+.morado{
+    color: rgba(60,45,176,255);
+}
